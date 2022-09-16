@@ -6,8 +6,8 @@
 **<h3>Contudo o meu maior agradecimento é para o canal no youtube _"CodingNepal"_ que ensinou um bom caminho para descobrir como passar desta atividade</h3>**
 
 <h1>Tecnologias usadas:</h1>
-  <ul>
+  <ul><h2>
   <li>Css</li>
   <li>Java Script</li>
   <li>Html</li>
-  </ul>
+  </h2></ul>
